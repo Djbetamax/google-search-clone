@@ -3,7 +3,7 @@
 This project is a clone of the google search design.  
 It has the search bar, the logo, header and a footer.
 
-Doesn't do the functionalities and maybe has size conflicts, but will be corrected soon*.
+**Doesn't do the functionalities and maybe has size conflicts, but will be corrected soon.**
 
 ## Preview Picture
 
